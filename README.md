@@ -1,4 +1,4 @@
-# 🦖 Rexduino – The Arduino-Powered Dinosaur UosM YEAR2 SEM 1
+# 🦖 Rexduino – The Arduino-Powered Dinosaur UosM YEAR2 SEM 1   
 
 **Rexduino** is a dynamic, interactive robotic dinosaur powered by Arduino. Inspired by the legendary T-Rex and driven by our passion for robotics and childhood imagination, Rexduino brings prehistoric life into the modern world through motion, sensors, sound, and light.
 
